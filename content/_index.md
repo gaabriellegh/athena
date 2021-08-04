@@ -1,8 +1,9 @@
 ---
-frontPageHeading: Self-Paced Video-Taped In Depth Interviews
-menuButtonText: Learn More
-buttonText: Start Your Learning Journey
+frontPageHeading: Welcome to Athena
+menuButtonText: IJM OSEC Site
+buttonText: Start Training
 title: VIDI Self Paced Training Homepage
 FrontPageImage: "/ijm.jpg"
-TrainingLocation: ""
+TrainingLocation: ''
+
 ---
